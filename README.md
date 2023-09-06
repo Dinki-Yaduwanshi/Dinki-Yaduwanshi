@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/starsirius52" target="blank"><img src="https://img.shields.io/twitter/follow/starsirius52?logo=twitter&style=for-the-badge" alt="starsirius52" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Android Devlopment**
 
 - 💬 Ask me about **Java,SQL,Databases**
 
